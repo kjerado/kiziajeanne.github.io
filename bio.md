@@ -2,4 +2,4 @@
 
 ### Picture of me on a bad day
 
-![picture of me
+![picture of me](biome.jpg)

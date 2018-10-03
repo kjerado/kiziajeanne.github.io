@@ -4,8 +4,8 @@
 
 ---
 
-[Biography](bio)
+[bio](bio)
 
 ---
 
-[Topic](topic)
+[Topic](Topic)

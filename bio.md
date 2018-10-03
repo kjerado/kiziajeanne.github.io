@@ -1,3 +1,5 @@
 # Biography Kiki jeanne
+
 ### Picture of me on a bad day
-![picture of me on bad day](biome.jpg)
+
+![picture of me

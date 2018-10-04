@@ -8,4 +8,4 @@
 
 ---
 
-[Topic](Topic)
+[Topic](topic)
